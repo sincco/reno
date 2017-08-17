@@ -1,8 +1,8 @@
 /**
 @author evilnapsis
 **/
-create database thunder;
-use thunder;
+-- create database reno;
+use reno;
 
 create table user(
 	id int not null auto_increment primary key,
