@@ -1,4 +1,4 @@
-# Thunder
+# Reno
 Sistema de Administracion de un Restaurant, Cafeteria, Bar, Pizzeria, etc
 
 

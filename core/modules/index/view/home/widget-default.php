@@ -6,7 +6,7 @@ $user = UserData::getById(Session::getUID());
 
 
                 <section class="content-header">
-                       		<h1>Thunder: Sistema de Administracion</h1>
+                       		<h1>Reno: Sistema de Administracion</h1>
 
                 </section>
 

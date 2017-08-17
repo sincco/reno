@@ -1,7 +1,8 @@
 /**
 @author evilnapsis
 **/
--- create database reno;
+<<<<<<< HEAD
+create database reno;
 use reno;
 
 create table user(
